@@ -1,0 +1,13 @@
+title: "SPREE: A Spoofing Resistant GNSS Receiver"
+email: hello@spree-gnss.ch
+description: > # this means to ignore newlines until "baseurl:"
+  The first spoofing resistant GNSS Receiver
+
+
+destination: _site_local
+url: "http://localhost:4000"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty

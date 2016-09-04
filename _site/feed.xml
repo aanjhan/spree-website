@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPREE: A Spoofing Resistant GPS Receiver</title>
+    <description>The first spoofing resistant GNSS Receiver
+</description>
+    <link>http://www.spree-gnss.ch/</link>
+    <atom:link href="http://www.spree-gnss.ch/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 04 Sep 2016 20:12:40 +0200</pubDate>
+    <lastBuildDate>Sun, 04 Sep 2016 20:12:40 +0200</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+  </channel>
+</rss>
